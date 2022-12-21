@@ -1,2 +1,2 @@
 # Customer-Segmentation
-In this repository we group our e-commerce customers for providing them a better and more tailored service.
+In this repository we group our mall customers for providing them a better and more tailored service.
